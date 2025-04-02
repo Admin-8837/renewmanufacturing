@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Renew Manufacturing</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #1a1a1a;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    header img {
+      max-width: 150px;
+      display: block;
+      margin: 0 auto 10px;
+    }
+    main {
+      padding: 40px 20px;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1, h2 {
+      text-align: center;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      background: #fff;
+      margin: 10px 0;
+      padding: 15px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #eee;
+      font-size: 0.9em;
+    }
+    .button {
+      display: inline-block;
+      background: #0073e6;
+      color: #fff;
+      padding: 10px 20px;
+      border-radius: 5px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+    .button:hover {
+      background: #005bb5;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://via.placeholder.com/150" alt="Renew Manufacturing Logo">
+    <h1>Renew Manufacturing</h1>
+    <p>Innovating Sustainable Manufacturing Solutions</p>
+  </header>
+  <main>
+    <section>
+      <h2>About Us</h2>
+      <p>Renew Manufacturing is committed to developing innovative and sustainable solutions in the field of advanced manufacturing. Our goal is to reduce waste, improve efficiency, and support a greener future.</p>
+    </section>
+    <section>
+      <h2>Our Services</h2>
+      <ul>
+        <li>Custom Eco-Friendly Product Design</li>
+        <li>3D Printing and Rapid Prototyping</li>
+        <li>Supply Chain Sustainability Consulting</li>
+        <li>Material Recycling & Lifecycle Analysis</li>
+      </ul>
+    </section>
+    <div style="text-align: center;">
+      <a class="button" href="https://adl2.com" target="_blank">Visit Our Main Site</a>
+    </div>
+  </main>
+  <footer>
+    &copy; 2025 Renew Manufacturing. All rights reserved.
+  </footer>
+</body>
+</html>
